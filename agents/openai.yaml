@@ -1,0 +1,4 @@
+interface:
+  display_name: "简历项目经历提炼"
+  short_description: "核验项目事实并提炼为可信、可追问、可量化的简历项目经历"
+  default_prompt: "使用 $resume-project-experience 根据我提供的材料撰写一段可信、可追问的简历项目经历。"
